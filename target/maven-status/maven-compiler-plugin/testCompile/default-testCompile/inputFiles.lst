@@ -3,4 +3,8 @@ C:\Users\shamb\eclipse-workspace\opencart_testng_1002\src\test\java\testCases\TC
 C:\Users\shamb\eclipse-workspace\opencart_testng_1002\src\test\java\pageObjects\AccountRegistrationPage.java
 C:\Users\shamb\eclipse-workspace\opencart_testng_1002\src\test\java\pageObjects\BasePage.java
 C:\Users\shamb\eclipse-workspace\opencart_testng_1002\src\test\java\pageObjects\MyAccountPage.java
+C:\Users\shamb\eclipse-workspace\opencart_testng_1002\src\test\java\utilities\DataProviders.java
+C:\Users\shamb\eclipse-workspace\opencart_testng_1002\src\test\java\utilities\ExcelUtility.java
 C:\Users\shamb\eclipse-workspace\opencart_testng_1002\src\test\java\pageObjects\HomePage.java
+C:\Users\shamb\eclipse-workspace\opencart_testng_1002\src\test\java\testBase\BaseClass.java
+C:\Users\shamb\eclipse-workspace\opencart_testng_1002\src\test\java\utilities\ExtentReportManager.java
